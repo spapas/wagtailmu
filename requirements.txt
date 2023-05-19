@@ -1,0 +1,14 @@
+Django==4.2.1
+django-bleach==3.0.1
+django-compressor==4.3.1
+django-libsass==0.9
+django-sass-processor==1.2.2
+django-tools==0.54.0
+libsass==0.22.0
+pytz==2023.3
+rcssmin==1.1.1
+requests==2.30.0
+rjsmin==1.2.1
+tzdata==2023.3
+wagtail==5.0
+-e git+https://github.com/caltechads/wagtail-jetstream@ebcd0ab285bb38c39b2c60309f3565028729e0e3#egg=wagtail_jetstream
